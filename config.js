@@ -25,12 +25,12 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "快 点我",
+        turn_on: "点我哦",
         play: "放音乐",
         bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
         cake_fadein: "鲜花",
-        light_candle: "blabla",
+        light_candle: "点哦",
         wish_message: "仙女节快乐",
         story: "A MESSAGE FOR YOU",
     }
